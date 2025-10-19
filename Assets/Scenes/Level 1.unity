@@ -28373,7 +28373,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0.5
   m_AngularDamping: 15
-  m_GravityScale: 3
+  m_GravityScale: 2
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -28490,10 +28490,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  boostSpeed: 25
+  boostSpeed: 15
   flipDuration: 1
   flipAngle: 360
-  jumpForce: 10
+  jumpForce: 15
   jumpSound: {fileID: 8300000, guid: ab1fcdcc383c55e43b856b5cbaf85c16, type: 3}
   upJumpSound: {fileID: 8300000, guid: 3cfbd8f178a03ec418a7438e212226f5, type: 3}
   downJumpSound: {fileID: 8300000, guid: a7134a60f4a1d374f94f1fd1804e55d4, type: 3}
