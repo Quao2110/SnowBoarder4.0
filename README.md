@@ -9,12 +9,12 @@ Hãy điều khiển vận động viên của bạn lướt qua những dốc t
 
 | Phím | Hành động |
 |------|-------------|
-| **A** | Di chuyển sang trái |
-| **D** | Di chuyển sang phải |
-| **W** | Nhảy lên |
-| **S** | Cúi xuống |
+| **Left** | Di chuyển chậm |
+| **Right** | Di chuyển nhanh |
+| **Up** | Lộn phía trước |
+| **Down** | Lộn phía sau |
 | **SHIFT** | Tăng tốc |
-| **SPACE** | Dùng kỹ năng đặc biệt |
+| **SPACE** | Lộn ngang |
 | **ALT + SHIFT** | Bất tử + tăng tốc gấp 3 lần bình thường  |
 ---
 
@@ -25,6 +25,7 @@ Hãy điều khiển vận động viên của bạn lướt qua những dốc t
 - Sử dụng **SPACE** để kích hoạt khả năng đặc biệt.  
 - Giữ **SHIFT** để tăng tốc, nhưng hãy cẩn thận khi xuống dốc!  
 - Hoàn thành màn chơi để đạt điểm cao nhất. 🏆
+- Link video: https://youtu.be/XV-IGmYjaNI
 
 ---
 
